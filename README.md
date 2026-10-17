@@ -43,7 +43,7 @@ I also acted as technical lead, which meant leading technical decisions and coor
 
 ## Tech
 
-- Unity
+- Unity Version 2022.3
 - C#
 - Git for version control
 
