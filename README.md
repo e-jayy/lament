@@ -1,11 +1,19 @@
 # Lament
 
-A 2D rogue-lite built in Unity as a final year project at the University of Southampton, by a team of five across design, programming, and art.
+A 2D rogue-lite built in Unity as a final year project at the University of Southampton, where I acted as Lead Technical Designer and Programmer.
 
-<img width="2453" height="1344" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/4c18c39a-5308-4bf7-9b13-f9811ec1bb3e" />
-<img width="1625" height="908" alt="LamentGameplay_4" src="https://github.com/user-attachments/assets/283eae9a-5216-41e7-9d3e-5a53a20b7664" />
-<img width="2417" height="1327" alt="LamentGameplay_3" src="https://github.com/user-attachments/assets/2ab4dcbb-f01f-4504-914b-8af0c6f89118" />
-<img width="1632" height="911" alt="LamentGameplay_2" src="https://github.com/user-attachments/assets/548ad9b6-954e-40ef-b12f-38a94c03e633" />
+<table align="center">
+  <tr>
+    <td><img height="350" alt="LamentGameplay_1" src="https://github.com/user-attachments/assets/d2b86cfa-b0ff-4c15-8e70-332f9343bb50" /></td>
+    <td><img height="350" alt="LamentGameplay_2" src="https://github.com/user-attachments/assets/5372302c-c912-41b2-a632-cf716427e62e" /></td>
+  </tr>
+  <tr>
+    <td><img height="350" alt="LamentGameplay_3" src="https://github.com/user-attachments/assets/f0ca6567-0a82-4797-b44a-6068dc442e42" /></td>
+    <td><img height="350" alt="LamentGameplay_4" src="https://github.com/user-attachments/assets/ca6026a0-84a6-4fbf-9afc-cf71624b2868" /></td>
+  </tr>
+</table>
+
+https://github.com/user-attachments/assets/e0c3eb41-8a5d-4951-877c-54d833664c54
 
 
 [**Play it on itch.io →**](https://e-jayy.itch.io/)
