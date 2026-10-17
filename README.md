@@ -41,11 +41,11 @@ I also acted as technical lead, which meant leading technical decisions and coor
 
 ## Team
 
-Design - [Anna Bonadio](https://www.linkedin.com/in/anna-bonadio-022412241/)
-UI + Art - [Aysa Atalay](https://www.linkedin.com/in/aysaatalay/)
-Programming + Art - [Xane El Deen Rashad](https://www.linkedin.com/in/xane-el-deen-r-444943338/)
-Art - [Riya Limbu](https://www.linkedin.com/in/xane-el-deen-r-444943338/)
-World Building - [Joshua Bates](https://www.linkedin.com/in/joshuabates05/)
+- Design - [Anna Bonadio](https://www.linkedin.com/in/anna-bonadio-022412241/)
+- UI + Art - [Aysa Atalay](https://www.linkedin.com/in/aysaatalay/)
+- Programming + Art - [Xane El Deen Rashad](https://www.linkedin.com/in/xane-el-deen-r-444943338/)
+- Art - [Riya Limbu](https://www.linkedin.com/in/xane-el-deen-r-444943338/)
+- World Building - [Joshua Bates](https://www.linkedin.com/in/joshuabates05/)
 
 ## Running it
 
